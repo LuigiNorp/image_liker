@@ -1,0 +1,5 @@
+/docker-compose.yml
+main/env/
+main/__pychache__/
+admin/admin/__pychache__/
+admin/products/__pycache__/
